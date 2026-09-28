@@ -1,6 +1,6 @@
 # Sales Dashboard | Tableau
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](Sales Dashborad.png)
 
 **[🔗 View the interactive dashboard on Tableau Public](https://public.tableau.com/views/SalesDashboard_17905904496720/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
