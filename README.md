@@ -1,6 +1,8 @@
 # Sales Dashboard | Tableau
 
-![Dashboard Overview](Sales Dashborad.png)
+![Dashboard Overview]
+<img width="1472" height="827" alt="image" src="https://github.com/user-attachments/assets/b8cbc89c-85bd-4c20-a357-d1aea9048a9f" />
+
 
 **[🔗 View the interactive dashboard on Tableau Public](https://public.tableau.com/views/SalesDashboard_17905904496720/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
@@ -67,9 +69,9 @@ An interactive sales dashboard comparing current year (2022) against previous ye
 │   ├── Sales_Data.xls          # Sample Superstore orders data
 │   └── hexmap.xlsx             # State coordinates for the tile map
 ├── dashboard/
-│   └── Sales_Dashboard.twb     # Tableau workbook
+│   └── Sales_Dashboard.twbx     # Tableau workbook
 └── images/
-    └── dashboard_overview.png
+    └── Sales Dashboard.png
 ```
 
 ## Dataset
